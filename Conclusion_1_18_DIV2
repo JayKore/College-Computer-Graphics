@@ -1,0 +1,8 @@
+Comment on -
+1.	Pixel :-In computer graphics, the display or screen is composed of a grid of individual picture elements, commonly known as pixels. Each pixel can be independently controlled to display a specific color, creating the overall image.
+
+2.	Equation for line:- ((y - y1) = m(x - x1)) or (y = mx + b)
+
+3.	Need of line drawing algorithm:-Line drawing algorithms are essential in computer graphics to render lines between specified points. Without a line drawing algorithm, displaying a straight line on a pixel grid would require individually setting each pixel position along the line, which is impractical and inefficient. The DDA algorithm provides a simple and efficient way to approximate lines on the pixel grid.
+
+4.	Slow or fast :-The DDA algorithm is relatively fast and suitable for real-time rendering on most systems. 
